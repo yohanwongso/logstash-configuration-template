@@ -1,6 +1,6 @@
 # LOGSTASH CONFIGURATION TEMPLATE
 
-Tested on SOF-ELK VM environtment.
+Tested on SOF-ELK VM environtment. You can download SOF-ELK from this link https://github.com/philhagen/sof-elk/blob/main/VM_README.md.
 
 Procedure:
 1. Clone this repository in /etc/logstash/
