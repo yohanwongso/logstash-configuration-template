@@ -11,3 +11,5 @@ Procedure:
 <t>\# /usr/share/logstash/bin/logstash --path.data /var/lib/logstash/temp/ -f /etc/logstash/logstash-configuration-template/\<conf file name\>
 5. Compare total of the documents in the targeted Elasticsearch index and total line of the source file to verify. The total of the documents in the targeted index can be found at Kibana's Stack Management → Index Management.
 6. When all of the events have been ingested to the Elasticsearch node, terminate the process by pressing Ctrl + C.
+
+Custom datetime formats - https://github.com/yohanwongso/logstash-configuration-template/blob/main/custom-datetime-formats.txt
