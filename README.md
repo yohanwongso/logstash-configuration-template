@@ -1,2 +1,1 @@
-# logstash-parser-template
-Logstash parser templates
+# LOGSTASH CONFIGURATION TEMPLATE
