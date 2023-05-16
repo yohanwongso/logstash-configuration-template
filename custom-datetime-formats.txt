@@ -1,0 +1,11 @@
+CUSTOM DATETIME FORMATS
+
+Dec 30, 2000 11:59:59 AM
+Dec 30, 2000 9:59:59 AM
+Dec 9, 2000 11:59:59 AM
+Dec 9, 2000 9:59:59 AM
+"MMM dd, yyyy hh:mm:ss a", "MMM dd, yyyy h:mm:ss a", "MMM d, yyyy hh:mm:ss a", "MMM d, yyyy h:mm:ss a"
+
+Dec 30 23:59:59
+Dec  1 23:59:59
+"MMM dd HH:mm:ss", "MMM  d HH:mm:ss"
